@@ -1,2 +1,2 @@
-# Leakage-type-classification-deep-learning-model
-한국전자통신연구원 산학 프로젝트
+# 상수누수타입 분류 딥러닝 모델 개발
+* 데이터 보안 조약으로 인해 시각화 자료는 공개할 수 없습니다.
